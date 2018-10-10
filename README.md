@@ -1,6 +1,6 @@
 # face-recognition
-	This project is built on python, and is about recognizing human faces and their various applications. 
-	KNN Algorithm is used here(both from scratch and sklearn library)	      
+This project is built on python, and is about recognizing human faces and their various applications. 
+KNN Algorithm has used here(both from scratch and sklearn library)	      
 	
 	
 	
@@ -25,3 +25,6 @@ who have used it.
  
 * This can also be useful in recognizing guest's faces at your doorstep 
 ....and many more.
+
+# Further Advancements:
+We can use MTCNN(Multi-task Cascaded Convolutional Neural Networks) for aligning faces in the image properly so that face matching can be done more accurately.
