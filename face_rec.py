@@ -41,5 +41,6 @@ cv2.destroyAllWindows()
 data = np.asarray(data)
 
 print (data.shape)
+#os.chdir change the dir 
 os.chdir(os.path.join(os.getcwd() , 'all_faces/'))  #all faces are stored in 'all_faces' folder.
 np.save(name, data)
